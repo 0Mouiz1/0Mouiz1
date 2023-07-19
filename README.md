@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Flutter projects**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Mobile Application Development **
 
-- 👯 I’m looking to collaborate on **flutter complex projects**
+- 👯 I’m looking to collaborate on **flutter projects**
 
 - 🤝 I’m looking for help with **Mobile application development**
 
