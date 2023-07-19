@@ -1,3 +1,4 @@
+![logo](https://github.com/0Mouiz1/0Mouiz1/blob/main/Orange%20%26%20Purple%20Geometric%20Tehnology%20Linkdln%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mouiz Ur Rehman</h1>
 <h3 align="center">A passionate Mobile application developer from Pakistan</h3>
 <imag align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH5aRpLWdA91kyoApzJ-3TIMo8l5_NUAt_aw&usqp=CAU">
