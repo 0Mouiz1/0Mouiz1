@@ -1,8 +1,8 @@
 ![logo](https://github.com/0Mouiz1/0Mouiz1/blob/main/Orange%20%26%20Purple%20Geometric%20Tehnology%20Linkdln%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mouiz Ur Rehman</h1>
-<h3 align="center">A passionate Mobile application developer from Pakistan</h3>
+<h3 align="center"> Mobile application developer </h3>
 
-- 🔭 I’m currently working on **Application development Projects**
+- 🔭 I’m currently working on **Mobile Application development Projects**
 
 - 🌱 I’m currently learning **Full stack Flutter Application Development**
 
@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0Mouiz1&" alt="0Mouiz1" /></p>
