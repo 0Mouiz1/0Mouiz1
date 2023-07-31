@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mouiz Ur Rehman</h1>
 <h3 align="center">A passionate Mobile application developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Application developmemt Projects**
+- 🔭 I’m currently working on **Application development Projects**
 
 - 🌱 I’m currently learning **Full stack Flutter Application Development**
 
