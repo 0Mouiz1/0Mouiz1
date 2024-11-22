@@ -1,6 +1,6 @@
 ![logo](https://github.com/0Mouiz1/0Mouiz1/blob/main/Orange%20%26%20Purple%20Geometric%20Tehnology%20Linkdln%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mouiz Ur Rehman</h1>
-<h3 align="center"> Mobile application developer </h3>
+<h3 align="center">Jr Mobile application developer </h3>
 
 - 🔭 I’m currently working on **Mobile Application development Projects**
 
@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Mobile application development**
 
-- 💬 Ask me about **flutter, Kotlin, SQL, NodeJs**
+- 💬 Ask me about **flutter, Python, SQL, NodeJs, Firebase, Supabase**
 
 - 📫 How to reach me **moixhashmi555@gmail.com**
 
