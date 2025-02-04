@@ -1,4 +1,4 @@
-![logo]([(https://github.com/0Mouiz1/0Mouiz1/blob/main/turtle.png)](https://github.com/0Mouiz1/0Mouiz1/blob/main/turtle.png))
+![logo](https://github.com/0Mouiz1/0Mouiz1/blob/main/turtle.png)
 <h1 align="center">Hi 👋, I'm Mouiz Ur Rehman</h1>
 <h3 align="center">Jr Mobile application developer </h3>
 
