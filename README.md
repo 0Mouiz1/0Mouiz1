@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mouiz Ur Rehman</h1>
 <h3 align="center">🚀 Software Application Development Enthusiast</h3>
 
-<p align="center">
-  <a href="https://linktr.ee/mouiz01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/linktree.svg" alt="Linktree Mouiz01" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
