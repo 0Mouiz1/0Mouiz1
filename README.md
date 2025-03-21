@@ -1,30 +1,36 @@
 ![logo](https://github.com/0Mouiz1/0Mouiz1/blob/main/turtle.png)
 <h1 align="center">Hi 👋, I'm Mouiz Ur Rehman</h1>
-<h3 align="center">Jr Mobile application developer </h3>
+<h3 align="center">🚀 Software Application Development Enthusiast</h3>
 
-- 🔭 I’m currently working on **Mobile Application development Projects**
-
-- 🌱 I’m currently learning **Full Stack Flutter Application Development**
-
-- 👯 I’m looking to collaborate on **Mobile Application Development  projects**
-
-- 🤝 I’m looking for help with **Mobile application development**
-
-- 💬 Ask me about **flutter, Python, SQL, NodeJs, Firebase, Supabase, Postman**
-
-- 📫 How to reach me **moixhashmi555@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  </a>
+<p align="center">
   <a href="https://linktr.ee/mouiz01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linktree.svg" alt="Linktree Mouiz01" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/linktree.svg" alt="Linktree Mouiz01" height="30" width="40" />
   </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+### 🔧 What I'm Up To
+- **Working On:** Software Application Development Projects
+- **Learning:** Full Stack Mobile Application Development
+- **Collaborating On:** Mobile Application Development Projects
+- **Seeking Help With:** Mobile Application Development
+
+---
+
+### 💬 Let's Talk About
+- **Flutter** | **Python** | **SQL** | **NodeJs** | **Firebase** | **Supabase** | **Postman**
+
+---
+
+### 📫 Reach Me At
+- **Email:** moixhashmi555@gmail.com
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
@@ -78,6 +84,8 @@
   </a> 
 </p>
 
+---
 
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0Mouiz1&label=Profile%20views&color=0e75b6&style=flat" alt="0Mouiz1" />
+</p>
