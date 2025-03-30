@@ -7,9 +7,9 @@
 
 ### 🔧 What I'm Up To
 - **Working On:** Software Application Development Projects
-- **Learning:** Full Stack Mobile Application Development
-- **Collaborating On:** Mobile Application Development Projects
-- **Seeking Help With:** Mobile Application Development
+- **Learning:** Full Stack Mobile Application Development 
+- **Collaborating On:** Flutter Projects
+- **Seeking Help With:** Backend Technologies 
 
 ---
 
