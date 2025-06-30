@@ -1,4 +1,8 @@
 ![logo](https://github.com/0Mouiz1/0Mouiz1/blob/main/turtle.png)
+
+
+![Views Badge](https://komarev.com/ghpvc/?username=0Mouiz1&label=Profile%20views&color=0e75b6&style=flat)
+
 <h1 align="center">Hi 👋, I'm Mouiz Ur Rehman</h1>
 <h3 align="center">🚀 Software Application Development Enthusiast</h3>
 
@@ -63,4 +67,3 @@
   </a> 
 </p>
  
-![Views Badge](https://komarev.com/ghpvc/?username=0Mouiz1&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/website-mouiz01-blue)](https:linktr.ee/mouiz01)
