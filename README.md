@@ -63,4 +63,4 @@
   </a> 
 </p>
  
-![Views Badge](https://komarev.com/ghpvc/?username=mouiz01&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/website-linktr.ee/mouiz01-blue)](https://mouizahmed.com)
+![Views Badge](https://komarev.com/ghpvc/?username=0Mouiz1&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/website-linktr.ee/mouiz01-blue)](https://mouizahmed.com)
