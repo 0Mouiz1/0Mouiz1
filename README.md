@@ -11,14 +11,14 @@
 
 ### 🔧 What I'm Up To
 - **Working On:** Software Application Development Projects
-- **Learning:** Full Stack Mobile Application Development 
-- **Collaborating On:** Mobile Application development projects
-- **Seeking Help With:** Backend Technologies  
+- **Learning:** Full Stack Application Development 
+- **Collaborating On:** Software Application development projects
+- **Seeking Help With:** Backend Technologies And Data Engineering  
 
 ---
 
 ### 💬 Let's Talk About
-- **Flutter** | **Python** | **SQL** | **NodeJs** | **Firebase** | **Supabase** | **Postman**
+- **Flutter** | **Python** | **SQL** | **NodeJs** | **Firebase** | **Supabase** | **Postman** | **JavaScript** | **Machine Learning** | **Data Science** | **Technology**
 
 ---
 
